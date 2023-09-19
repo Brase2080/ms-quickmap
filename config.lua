@@ -1,3 +1,5 @@
+-- You can check the script Gitbook at this adress for a complete explanation of this file: https://moonlight-studio.gitbook.io/moonlight-studio/free-script/quickmap
+
 Config = {}
 
 Config.settings = {
